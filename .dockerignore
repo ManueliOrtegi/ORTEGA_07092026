@@ -1,0 +1,15 @@
+# .dockerignore - Exclude unnecessary files from Docker build
+bin/
+obj/
+.git/
+.gitignore
+.dockerignore
+.vs/
+.vscode/
+*.user
+*.suo
+.DS_Store
+node_modules/
+dist/
+build/
+*.log
